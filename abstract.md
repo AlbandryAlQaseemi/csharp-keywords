@@ -4,6 +4,7 @@
 ### <div dir=rtl> مثال: <div>
 
 <div dir=ltr>
+
 ```
  public abstract class Shape
         {
@@ -17,4 +18,5 @@
             }
         }
   ```
+  
   <div>
