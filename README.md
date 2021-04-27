@@ -15,4 +15,9 @@
 - out
 - break
 - continue
+- virtual
+- override
+- protected
+- public
+- private
 <div>
