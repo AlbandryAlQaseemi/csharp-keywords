@@ -16,6 +16,8 @@
                     this.third = 3;
                     this.thirdPrint();
                 }
+              private void thirdPrint() { }
+              }
 
   ```
   
