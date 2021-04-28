@@ -20,4 +20,8 @@
 - protected
 - public
 - private
+- params
+- enum
+- object
+- this
 <div>
